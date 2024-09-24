@@ -1,0 +1,67 @@
+from,to,differential,total
+Kat Dalton,Claire ,5,7
+Claire ,Jasmin Isla,4,2
+Claire ,kylegunn,0,10
+Claire ,lamiddleton,1,9
+Claire ,Cleo,2,8
+Matt McCallum,Claire ,2,0
+Claire ,jessica-g-simpson,8,8
+Doug,Claire ,3,5
+Claire ,Katy,3,-1
+struanmclean,Claire ,1,3
+morganalexandra,Claire ,2,8
+Jasmin Isla,Kat Dalton,1,25
+Kat Dalton,kylegunn,6,12
+Kat Dalton,lamiddleton,3,21
+Cleo,Kat Dalton,5,9
+Matt McCallum,Kat Dalton,3,7
+Kat Dalton,jessica-g-simpson,2,12
+Doug,Kat Dalton,4,8
+Katy,Kat Dalton,5,21
+Kat Dalton,struanmclean,0,10
+morganalexandra,Kat Dalton,8,22
+Jasmin Isla,kylegunn,5,19
+Jasmin Isla,lamiddleton,4,6
+Cleo,Jasmin Isla,6,6
+Jasmin Isla,Matt McCallum,2,12
+jessica-g-simpson,Jasmin Isla,7,9
+Jasmin Isla,Doug,6,18
+Katy,Jasmin Isla,1,23
+struanmclean,Jasmin Isla,11,11
+Jasmin Isla,morganalexandra,5,19
+kylegunn,lamiddleton,2,12
+Cleo,kylegunn,4,12
+Matt McCallum,kylegunn,7,11
+kylegunn,jessica-g-simpson,5,19
+kylegunn,Doug,7,21
+Katy,kylegunn,1,19
+kylegunn,struanmclean,0,2
+morganalexandra,kylegunn,4,20
+Cleo,lamiddleton,0,12
+lamiddleton,Matt McCallum,1,5
+jessica-g-simpson,lamiddleton,2,8
+lamiddleton,Doug,1,21
+Katy,lamiddleton,3,15
+struanmclean,lamiddleton,2,16
+morganalexandra,lamiddleton,7,9
+Matt McCallum,Cleo,3,25
+jessica-g-simpson,Cleo,2,26
+Cleo,Doug,5,15
+Katy,Cleo,4,14
+struanmclean,Cleo,11,1
+Cleo,morganalexandra,6,12
+Matt McCallum,jessica-g-simpson,4,14
+Matt McCallum,Doug,7,7
+Matt McCallum,Katy,1,5
+struanmclean,Matt McCallum,3,-9
+Matt McCallum,morganalexandra,13,1
+Doug,jessica-g-simpson,2,14
+jessica-g-simpson,Katy,8,-2
+struanmclean,jessica-g-simpson,0,20
+morganalexandra,jessica-g-simpson,10,12
+Doug,Katy,2,18
+struanmclean,Doug,5,11
+Doug,morganalexandra,7,19
+Katy,struanmclean,3,21
+Katy,morganalexandra,0,8
+morganalexandra,struanmclean,1,13
